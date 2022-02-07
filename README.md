@@ -8,5 +8,5 @@ https://mumbai.polygonscan.com/address/0xfd9c919f3473d224b0025346bb46da1762a29d9
 This is Parcel 0x0y and the starting map(4000x4000px) https://mumbai.polygonscan.com/token/0x27083acef1d609b0c14a66a41655cba9a9faa93f 
 ![Preview](https://github.com/BooneTB/TheBlockchainLand-Marketplace/blob/main/src/TheBlockchainLand_0x0y.jpg)
 
-and 0x0y is divdied into 16 1000x1000pixel Parcelshttps://github.com/BooneTB/TheBlockchainLand-Marketplace/tree/main/src/grid, this is 0x0y A1 https://ipfs.io/ipfs/bafkreigsbaij6ifziwl6q4r43272qhltrofu6gprvbpsmko2tcldqndxbe
+and 0x0y is divdied into 16 1000x1000pixel Parcels https://github.com/BooneTB/TheBlockchainLand-Marketplace/tree/main/src/grid, this is 0x0y A1 https://ipfs.io/ipfs/bafkreigsbaij6ifziwl6q4r43272qhltrofu6gprvbpsmko2tcldqndxbe
 ![Preview](https://github.com/BooneTB/TheBlockchainLand-Marketplace/blob/main/src/grid/TheBlockchainLand_0x0y_A1.png)
