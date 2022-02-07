@@ -1,0 +1,41 @@
+{
+    "name":"The Blockchain Land 0x0y A1",
+    "description":"0x0y A1 is alpha parcel of The Blockchain Land game map with 100 total plots.",
+    "external_url":"https://theblockchain.land",
+    "image":"ipfs://bafkreicoclclurxgbzjo22gu3qza7d26ucptgg3ik2gv6qxveig45usu7i",
+    "attributes":[
+        {
+          "trait_type":"Parcel",
+          "value":"0x0y A1"
+         },
+        {
+          "trait_type":"WATER",
+          "value":"78"
+       },
+       {
+          "trait_type":"SAND",
+          "value":"17"
+       },
+       {
+         "trait_type":"PRAIRIE",
+         "value":"4.5"
+       },
+       
+       {
+          "trait_type":"HILLS",
+          "value":".5"
+       },
+       {
+          "trait_type":"FOREST",
+          "value":"0"
+       },
+       {
+          "trait_type":"MOUNTAINS",
+          "value":"0"
+       },
+       {
+          "trait_type":"Pixels",
+          "value":"1000x1000"
+       }
+    ]
+ }

@@ -1,0 +1,41 @@
+{
+    "name":"The Blockchain Land 0x0y",
+    "description":"0x0y is the starting parcel of The Blockchain Land game map with 1500 total plots.",
+    "external_url":"https://theblockchain.land",
+    "image":"ipfs://bafybeia2t3ilkqn6723wuc7aqahnb5rj6f6lcjcc3hq7czp233ecipigni",
+    "attributes":[
+        {
+          "trait_type":"Parcel",
+          "value":"0x0y"
+         },
+        {
+          "trait_type":"WATER",
+          "value":"891"
+       },
+       {
+          "trait_type":"SAND",
+          "value":"45"
+       },
+       {
+         "trait_type":"PRAIRIE",
+         "value":"235.5"
+       },
+       
+       {
+          "trait_type":"HILLS",
+          "value":"111"
+       },
+       {
+          "trait_type":"FOREST",
+          "value":"198.5"
+       },
+       {
+          "trait_type":"MOUNTAINS",
+          "value":"19"
+       },
+       {
+          "trait_type":"Pixels",
+          "value":"4000x4000"
+       }
+    ]
+ }
