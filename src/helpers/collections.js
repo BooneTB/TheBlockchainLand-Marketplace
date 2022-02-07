@@ -3,15 +3,9 @@ export const networkCollections = {
     //Add Your Collections here
     {
       image:
-        "https://lh3.googleusercontent.com/BWCni9INm--eqCK800BbRkL10zGyflxfPwTHt4XphMSWG3XZvPx1JyGdfU9vSor8K046DJg-Q8Y4ioUlWHiCZqgR_L00w4vcbA-w=s0",
-      name: "Test Mages",
-      addrs: "0x275d553f426355c20b134D944B5b28D31CDb83DA",
-    },
-    {
-      image:
-        "https://ipfs.moralis.io:2053/ipfs/QmfLbpeVHxReWKNLaXTPcWiafi49eoAL4gRwMGuXtx2Eqe/images/14.png",
-      name: "Pixel Show",
-      addrs: "0xCA34404dD8Bd6537BE76F3A51B379F8949bD7973",
+        "https://ipfs.io/ipfs/bafybeia2t3ilkqn6723wuc7aqahnb5rj6f6lcjcc3hq7czp233ecipigni",
+      name: "The Blockchain Land 0x0y",
+      addrs: "0x27083acef1d609b0c14a66a41655cba9a9faa93f",
     },
   ],
 
