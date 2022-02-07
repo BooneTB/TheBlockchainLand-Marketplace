@@ -1,4 +1,4 @@
-# `The Blockchain Land Game`
+# `The Blockchain Land DAO Game`
 
 A longterm turn based strategy DAO game (: https://docs.google.com/presentation/d/1WYB_OwTonrI1QVnUA7sfyY2B7yhPICovLkHlIXoUw0s/
 
