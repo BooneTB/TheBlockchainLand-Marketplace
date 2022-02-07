@@ -18,6 +18,9 @@ import NativeBalance from "components/NativeBalance";
 import "./style.css";
 import Text from "antd/lib/typography/Text";
 import NFTMarketTransactions from "components/NFTMarketTransactions";
+import ERC20Balance from "components/ERC20Balance";
+import ERC20Transfers from "components/ERC20Transfers";
+import Contract from "components/Contract/Contract";
 const { Header, Footer } = Layout;
 
 const styles = {
@@ -67,7 +70,7 @@ const App = ({ isServerInfo }) => {
     <Layout style={{ height: "100vh", overflow: "auto" }}>
       <Router>
         <Header style={styles.header}>
-          <Logo />
+          
           <SearchCollections setInputValue={setInputValue}/>
           <Menu
             theme="light"
@@ -82,14 +85,24 @@ const App = ({ isServerInfo }) => {
             defaultSelectedKeys={["nftMarket"]}
           >
             <Menu.Item key="nftMarket" onClick={() => setInputValue("explore")} >
-              <NavLink to="/NFTMarketPlace">🛒 Explore Market</NavLink>
+              <NavLink to="/NFTMarketPlace">Explore LandNFTs</NavLink>
             </Menu.Item>
             <Menu.Item key="nft">
-              <NavLink to="/nftBalance">🖼 Your Collection</NavLink>
+              <NavLink to="/nftBalance">Your NFTs</NavLink>
             </Menu.Item>
+            <Menu.Item key="/erc20balance">
+        <NavLink to="/erc20balance">Your Tokens</NavLink>
+      </Menu.Item>
+            <Menu.Item key="/contract">
+        <NavLink to="/contract">PixelDust</NavLink>
+      </Menu.Item>
             <Menu.Item key="transactions">
-              <NavLink to="/Transactions">📑 Your Transactions</NavLink>
+              <NavLink to="/Transactions">Market Transactions</NavLink>
             </Menu.Item>
+        <Menu.Item key="/erc20transfers">
+        <NavLink to="/erc20transfers">Transfers</NavLink>
+      </Menu.Item>
+          
           </Menu>
           <div style={styles.headerRight}>
             <Chains />
@@ -99,6 +112,23 @@ const App = ({ isServerInfo }) => {
         </Header>
         <div style={styles.content}>
           <Switch>
+          <Route path="/erc20balance">
+              <ERC20Balance />
+            </Route>
+            
+            <Route path="/erc20transfers">
+              <ERC20Transfers />
+            </Route>
+            <Route path="/nftBalance">
+              <NFTBalance />
+            </Route>
+            <Route path="/contract">
+              <Contract />
+            </Route>
+                       
+            <Route path="/nonauthenticated">
+              <>Please login using the "Authenticate" button</>
+            </Route>
             <Route path="/nftBalance">
               <NFTBalance />
             </Route>
