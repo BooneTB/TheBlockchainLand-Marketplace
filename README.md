@@ -1,8 +1,10 @@
 # `The Blockchain Land DAO Game`
 
 A LongTerm Turn Based Strategy DAO Game (: https://docs.google.com/presentation/d/1WYB_OwTonrI1QVnUA7sfyY2B7yhPICovLkHlIXoUw0s/
+
 In-game Currency,  PixelDust (PXD) ERC20
 Testnet: https://mumbai.polygonscan.com/token/0xfd9c919f3473d224b0025346bb46da1762a29d988
+
 Mainnet: https://polygonscan.com/token/0x7fd1b109d1f5f3811e5ec7da67b86b2e426ab54d
 
 Get TESTNET PixelDust(ERC20) by sending MATIC to the (PixelDust Manufacture Contract 0x618dcc8Ce3aeC72a14ec41580F61d3DC12a7e69C) it will mint you PXD at exchange ratio of 1 PXD for 1 MATIC. It is best to pay to speed up the transaction to pay more gas and the mint will happen faster for just a less than a penny.
