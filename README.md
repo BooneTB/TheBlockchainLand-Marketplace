@@ -3,7 +3,7 @@
 A LongTerm Turn Based Strategy DAO Game (: https://docs.google.com/presentation/d/1WYB_OwTonrI1QVnUA7sfyY2B7yhPICovLkHlIXoUw0s/
 
 In-game Currency,  PixelDust (PXD) ERC20
-Testnet: https://mumbai.polygonscan.com/token/0xfd9c919f3473d224b0025346bb46da1762a29d988
+Testnet: https://mumbai.polygonscan.com/token/0xFD9c919F3473d224b0025346BB46Da1762a29d98
 
 Mainnet: https://polygonscan.com/token/0x7fd1b109d1f5f3811e5ec7da67b86b2e426ab54d
 
